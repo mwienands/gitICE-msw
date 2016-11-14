@@ -13,6 +13,7 @@
 		7590C1481DDA46D000030D7F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7590C1461DDA46D000030D7F /* Main.storyboard */; };
 		7590C14A1DDA46D000030D7F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7590C1491DDA46D000030D7F /* Assets.xcassets */; };
 		7590C14D1DDA46D000030D7F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7590C14B1DDA46D000030D7F /* LaunchScreen.storyboard */; };
+		7590C1551DDA48A600030D7F /* SeaVc.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7590C1541DDA48A600030D7F /* SeaVc.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		7590C1491DDA46D000030D7F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7590C14C1DDA46D000030D7F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7590C14E1DDA46D000030D7F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7590C1541DDA48A600030D7F /* SeaVc.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SeaVc.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				7590C1421DDA46D000030D7F /* FirstViewController.swift */,
 				7590C1441DDA46D000030D7F /* SecondViewController.swift */,
 				7590C1461DDA46D000030D7F /* Main.storyboard */,
+				7590C1541DDA48A600030D7F /* SeaVc.swift */,
 				7590C1491DDA46D000030D7F /* Assets.xcassets */,
 				7590C14B1DDA46D000030D7F /* LaunchScreen.storyboard */,
 				7590C14E1DDA46D000030D7F /* Info.plist */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7590C1551DDA48A600030D7F /* SeaVc.swift in Sources */,
 				7590C1451DDA46D000030D7F /* SecondViewController.swift in Sources */,
 				7590C1411DDA46D000030D7F /* AppDelegate.swift in Sources */,
 				7590C1431DDA46D000030D7F /* FirstViewController.swift in Sources */,
